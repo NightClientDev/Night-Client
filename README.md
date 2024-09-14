@@ -1,4 +1,5 @@
-![nightclientlogo](https://github.com/user-attachments/assets/2ba06faf-974e-4b71-b3cc-21b4e3b5c241)
+
+![nightclientlogo](https://github.com/user-attachments/assets/a2a15e1f-9ee6-444b-8f84-de65e6c94aba)
 
 # Night Client : Revolutionize Your Minecraft Experience
 
